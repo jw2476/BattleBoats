@@ -1,3 +1,7 @@
 <main>
-	<h1>HELLO PERSON</h1>
+	<Game/>
 </main>
+
+<script lang="ts">
+import Game from "./Game.svelte"
+</script>
